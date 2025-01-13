@@ -43,3 +43,7 @@ table thead{
 .tabella tfoot {
     background-color: lightblue;
 }
+
+#photos{
+    margin-bottom: 5%;
+}
