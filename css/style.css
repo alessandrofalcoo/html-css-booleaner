@@ -37,3 +37,10 @@ table thead{
     color: white;
 }
 
+.tabella tbody #first-element{
+    background-color: lightblue;
+}
+
+.tabella tfoot {
+    background-color: lightblue;
+}
